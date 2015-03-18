@@ -41,6 +41,7 @@ public class MainActivity extends Activity
         setContentView(R.layout.activity_main);
 	//进行一次修改
 	//第二次
+	//这是一次错误的添加
         mNavigationDrawerFragment = (NavigationDrawerFragment)
                 getFragmentManager().findFragmentById(R.id.navigation_drawer);
         mTitle = getTitle();
