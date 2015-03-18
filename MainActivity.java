@@ -46,6 +46,7 @@ public class MainActivity extends Activity
 	//dev分支下的更新
 	//准备尝试解决合并这次冲突
 	//一次新的分支
+	//ss
         mNavigationDrawerFragment = (NavigationDrawerFragment)
                 getFragmentManager().findFragmentById(R.id.navigation_drawer);
         mTitle = getTitle();
