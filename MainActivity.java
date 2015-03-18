@@ -44,7 +44,7 @@ public class MainActivity extends Activity
 	//这是一次错误的添加
 	//error again
 	//dev分支下的更新
-    //解决合并冲突
+	//准备尝试解决合并这次冲突
         mNavigationDrawerFragment = (NavigationDrawerFragment)
                 getFragmentManager().findFragmentById(R.id.navigation_drawer);
         mTitle = getTitle();
